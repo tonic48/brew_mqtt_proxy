@@ -1,0 +1,8 @@
+{ "url":"mqtt://10.0.0.50",
+  "options":
+  {
+    "username":"openhabian",
+    "password":"openhabian"
+  },
+  "qos":0
+}

@@ -1,0 +1,4 @@
+{
+  "device":   "brewcontrol",
+  "current_temp_topic":   "ferm_current_temp"
+}
