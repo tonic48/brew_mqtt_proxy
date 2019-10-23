@@ -1,4 +1,9 @@
 {
   "device":   "brewcontrol",
-  "current_temp_topic":   "ferm_current_temp"
+  "topics":
+  {
+    "ferm_current_temp_topic":   "ferm_current_temp",
+    "ferm_temp_set_point_topic": "ferm_temp_set_point"
+  }
+ 
 }

@@ -1,0 +1,31 @@
+{
+  "name": "brew-mqtt-proxy",
+  "version": "1.0.0",
+  "description": "Brewing process controller",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "serialport": "^7.1.5",
+    "tuyapi": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonic48/brew_mqtt_proxy.git"
+  },
+  "keywords": [
+    "brew",
+    "controller",
+    "arduino",
+    "thermostat"
+  ],
+  "author": "tonic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonic48/brew_mqtt_proxy/issues"
+  },
+  "homepage": "https://github.com/tonic48/brew_mqtt_proxy#readme"
+}
