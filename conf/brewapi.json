@@ -1,9 +1,17 @@
 {
+  "comport": "COM5",
   "device":   "brewcontrol",
   "topics":
   {
     "ferm_current_temp_topic":   "ferm_current_temp",
-    "ferm_temp_set_point_topic": "ferm_temp_set_point"
+    "ferm_temp_set_point_topic": "ferm_temp_set_point",
+    "ferm_diff_set_value_topic": "ferm_diff_set_value",
+    "ferm_comp_delay_time_topic": "ferm_comp_delay_time",
+    "ferm_temp_callibration_value_topic": "ferm_temp_callibration_value",
+    "ferm_temp_sensor_error_topic":"ferm_temp_sensor_error",
+    "ferm_mode_topic":"ferm_mode",
+    "on_off_topic":"on_off",
+    "ferm_lamp_switch_topic":"ferm_lamp_switch"
   }
  
 }

@@ -22,10 +22,11 @@
     "arduino",
     "thermostat"
   ],
-  "author": "tonic",
-  "license": "ISC",
+  "author": "A.Tsyvyan",
+  "email": "codetheweb@icloud.com",
   "bugs": {
     "url": "https://github.com/tonic48/brew_mqtt_proxy/issues"
   },
+  "deprecated": false,
   "homepage": "https://github.com/tonic48/brew_mqtt_proxy#readme"
 }
